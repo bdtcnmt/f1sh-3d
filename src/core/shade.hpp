@@ -1,0 +1,1 @@
+// Shading math (flat, Gourand, Phong)

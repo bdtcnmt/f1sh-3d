@@ -1,0 +1,1 @@
+// Raw RGBA pixel buffer + depth buffer

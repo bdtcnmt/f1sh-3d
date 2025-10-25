@@ -1,0 +1,1 @@
+// Scoped timers to measure time per render stage

@@ -1,0 +1,1 @@
+// Counters (vertices processed, triangles culled, etc.)
