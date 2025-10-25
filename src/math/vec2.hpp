@@ -1,0 +1,1 @@
+// 2D vector (x,y) used for texture coordinates, 2D positions
